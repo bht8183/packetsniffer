@@ -1,3 +1,9 @@
+"""
+pktsniffer.py
+A packet sniffer that reads  a .pcap file and filters network traffic.
+
+Author: Brian Tokumoto
+"""
 import argparse
 import scapy.all as scapy
 
